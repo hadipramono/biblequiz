@@ -5,6 +5,10 @@
     let howToButton = document.querySelector('#how-to');
     let closeHowToButton = document.querySelector('#close-how-to');
     let howToPlayScreen = document.querySelector('.how-to-play-screen');
+    let settingButton = document.querySelector('#setting');
+    let closeSettingButton = document.querySelector('#close-setting');
+    let saveSettingButton = document.querySelector('#save-setting');
+    let settingScreen = document.querySelector('.setting-screen');
     let mainScreen = document.querySelector('.main-screen');
     let quizScreen = document.querySelector('.quiz-screen');
     let resultScreen = document.querySelector('.result-screen');
@@ -20,6 +24,21 @@
   
     closeHowToButton.addEventListener('click', function() {
       howToPlayScreen.classList.add('hidden');
+      mainScreen.classList.remove('hidden');
+    });
+    
+    settingButton.addEventListener('click', function() {
+      settingScreen.classList.remove('hidden');
+      mainScreen.classList.add('hidden');
+    });
+  
+    closeSettingButton.addEventListener('click', function() {
+      settingScreen.classList.add('hidden');
+      mainScreen.classList.remove('hidden');
+    });
+
+    saveSettingButton.addEventListener('click', function() {
+      settingScreen.classList.add('hidden');
       mainScreen.classList.remove('hidden');
     });
   
@@ -74,7 +93,7 @@
         startProgressbar();
         timer = window.setTimeout(function() {
           guess(null);
-        }, 10000);
+        }, 15000);
   
         setQuizText('Bible Quiz');
   

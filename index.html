@@ -15,13 +15,18 @@
                 <img class="quiz-image" src="./assets/Game-Logo.png" alt="Bible quiz LOGO">
             </div>
             <h1>Bible Quiz</h1>
-            
+
             <div class="button-container">
                 <div class="button-outer">
                     <button class="default-button" id="start">Start</button>
                 </div>
                 <div class="button-outer">
                     <button class="default-button" id="how-to">How to play?</button>
+                </div>
+            </div>
+            <div class="container">
+                <div class="button-outer">
+                    <button class="default-button" id="setting">Pengaturan</button>
                 </div>
             </div>
             <div class="quiz-logo">
@@ -42,6 +47,29 @@
             <p class="text">Ketika Anda telah menyelesaikan kuis Alkitab, skor total Anda akan menunjukkan seberapa baik pengetahuan Anda tentang Alkitab. Selamat menikmati!</p>
                 
             <button class="default-button" id="start2">Ok. Mari mulai!</button>
+
+            <div class="quiz-logo">
+                <img src="./assets/ai-4-god.png" alt="YLSA logo">
+            </div>
+        </div>
+
+        <div class="screen-section setting-screen hidden">
+            <img class="quiz-corner-logo" src="./assets/Game-Logo.png" alt="Bile Quiz logo">
+            <button type="button" id="close-setting" class="close-button">X</button>
+            <h2 class="title">Pengaturan</h2>
+            
+            <div class="container">
+                <label for="cars">Tingkat Kesulitan:</label>
+
+                <select name="difficulty" id="difficulty">
+                  <option value="random">Acak</option>
+                  <option value="easy">Mudah</option>
+                  <option value="medium">Menengah</option>
+                  <option value="hard">Sulit</option>
+                </select> 
+            </div>
+                
+            <button class="default-button" id="save-setting">Simpan</button>
 
             <div class="quiz-logo">
                 <img src="./assets/ai-4-god.png" alt="YLSA logo">
@@ -78,7 +106,7 @@
 
         <div class="screen-section result-screen hidden">
             <div class="quiz-image-wrapper">
-                <input class="question" id="questionId" value="" /> 
+                
             </div>
             <p class="score">
                 <span id="score"></span> out of <span id="score-total"></span>
