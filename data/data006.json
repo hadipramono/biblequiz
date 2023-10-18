@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Siapakah yang memimpin umat Israel melewati Laut Merah? (Keluaran 14:21)",
+        "answers": [
+            "Musa",
+            "Daud",
+            "Ibrahim",
+            "Noah"
+        ],
+        "correct": "Musa",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah nabi yang berinteraksi dengan seekor keledai berbicara? (Bilangan 22:28)",
+        "answers": [
+            "Yeremia",
+            "Bileam",
+            "Yesaya",
+            "Hosea"
+        ],
+        "correct": "Bileam",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Dalam Perjanjian Baru, siapakah yang mengkhianati Yesus? (Markus 14:10)",
+        "answers": [
+            "Petrus",
+            "Yudas Iskariot",
+            "Yohanes",
+            "Matius"
+        ],
+        "correct": "Yudas Iskariot",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Kota manakah tempat Yesus lahir? (Lukas 2:4)",
+        "answers": [
+            "Yerusalem",
+            "Betlehem",
+            "Nazaret",
+            "Yeriko"
+        ],
+        "correct": "Betlehem",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa jumlah murid yang dipilih oleh Yesus? (Matius 10:1)",
+        "answers": [
+            "12",
+            "7",
+            "10",
+            "40"
+        ],
+        "correct": "12",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Pada hari ke berapa Tuhan menciptakan manusia? (Kejadian 1:27)",
+        "answers": [
+            "Hari ke-6",
+            "Hari ke-7",
+            "Hari ke-5",
+            "Hari ke-4"
+        ],
+        "correct": "Hari ke-6",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang menggantikan Musa sebagai pemimpin umat Israel? (Yosua 1:2)",
+        "answers": [
+            "Yosua",
+            "Samuel",
+            "Daud",
+            "Saul"
+        ],
+        "correct": "Yosua",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang membangun bahtera untuk menyelamatkan keluarganya dari banjir besar? (Kejadian 6:14)",
+        "answers": [
+            "Nuh",
+            "Abraham",
+            "Isaak",
+            "Yakub"
+        ],
+        "correct": "Nuh",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang menjadi raja setelah Raja Saul? (1 Samuel 16:13)",
+        "answers": [
+            "Daud",
+            "Salomo",
+            "Rehabeam",
+            "Yosia"
+        ],
+        "correct": "Daud",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang menjadi raja setelah Raja Daud? (1 Raja-raja 1:30)",
+        "answers": [
+            "Salomo",
+            "Rehabeam",
+            "Asa",
+            "Yosia"
+        ],
+        "correct": "Salomo",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    }
+]

@@ -55,12 +55,19 @@
     let score = 0;
     let questions = [];
     let timer = null
+
+    function randomDataSources() {
+      var arr = ["data001", "data002", "data003", "data004", "data005", "data006" ];
+      return arr[(Math.floor(Math.random() * (arr.length)))]
+    }
   
     function showGamePlay () {
       // TODO: show spinner
       questionIndex = 0;
       questions = [];
       score = 0;
+
+      let dataDource = randomDataSources();
   
       window.setTimeout(function () {
         // TODO: get questions from server
@@ -70,7 +77,7 @@
         resultScreen.classList.add('hidden');
         quizScreen.classList.remove('hidden');
         
-        $.getJSON('./data/data1.json', function(dt) {
+        $.getJSON('./data/' + dataDource + '.json', function(dt) {
           questions = dt;
           
           let questionCount = document.getElementById('question-count');

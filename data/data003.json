@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Siapakah yang meminta Pilatus agar boleh menurunkan tubuh Yesus dari salib?",
+        "answers": [
+            "Maria Magdalena",
+            "Petrus",
+            "Yohanes",
+            "Yusuf dari Arimatea"
+        ],
+        "correct": "Yusuf dari Arimatea",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang pertama kali melihat Yesus yang telah bangkit?",
+        "answers": [
+            "Yohanes",
+            "Petrus",
+            "Maria Magdalena",
+            "Yakobus"
+        ],
+        "correct": "Maria Magdalena",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa banyak kitab Injil dalam Alkitab?",
+        "answers": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": "4",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Injil yang menekankan keilahian Yesus adalah Injil ______.",
+        "answers": [
+            "Matius",
+            "Markus",
+            "Lukas",
+            "Yohanes"
+        ],
+        "correct": "Yohanes",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Di mana Yesus mengalami penyaliban menurut Injil Matius?",
+        "answers": [
+            "Golgota",
+            "Bukit Zaitun",
+            "Taman Eden",
+            "Kapernaum"
+        ],
+        "correct": "Golgota",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang menjadi raja ketika Yesus lahir? (Matius 2:1)",
+        "answers": [
+            "Herodes",
+            "Pilatus",
+            "Kaisar Augustus",
+            "Kaisar Tiberius"
+        ],
+        "correct": "Herodes",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Dalam kitab Wahyu, berapa jumlah segel yang harus dibuka? (Wahyu 5:1)",
+        "answers": [
+            "7",
+            "6",
+            "12",
+            "10"
+        ],
+        "correct": "7",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Dari kota manakah Saulus berasal? (Kisah 9:11)",
+        "answers": [
+            "Tarsus",
+            "Damaskus",
+            "Galatia",
+            "Roma"
+        ],
+        "correct": "Tarsus",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang membangun Bait Suci pertama di Yerusalem? (1 Raja-raja 6:1)",
+        "answers": [
+            "Salomo",
+            "Daud",
+            "Zerubabel",
+            "Hiram"
+        ],
+        "correct": "Salomo",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang melahirkan anak kembar Esau dan Yakub? (Kejadian 25:24)",
+        "answers": [
+            "Ribka",
+            "Sara",
+            "Hana",
+            "Rut"
+        ],
+        "correct": "Ribka",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    }
+]

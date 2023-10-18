@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Apakah nama anak perempuan Yeftha yang dikurbankan sebagai korban bakaran? (Hakim-hakim 11:29-40)",
+        "answers": [
+            "Maria",
+            "Tamar",
+            "Lea",
+            "Havila"
+        ],
+        "correct": "Havila",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah nama pahlawan yang menangkap singa dengan tangannya sendiri? (1 Samuel 17:34)",
+        "answers": [
+            "Daud",
+            "Gideon",
+            "Yosua",
+            "Dian"
+        ],
+        "correct": "Daud",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapa nama gembala yang menerima janji Allah bahwa keturunannya akan menjadi raja selamanya? (Kejadian 17:19)",
+        "answers": [
+            "Daud",
+            "Musa",
+            "Abraham",
+            "Yakub"
+        ],
+        "correct": "Abraham",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah nama pemilik tanah yang memberikan kuburan untuk Yesus setelah Ia disalibkan? (Matius 27:57)",
+        "answers": [
+            "Yosef dari Arimatea",
+            "Nikodemus",
+            "Yusuf",
+            "Barabas"
+        ],
+        "correct": "Yosef dari Arimatea",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apakah nama malaikat yang memberitakan kepada Maria bahwa Ia akan melahirkan Yesus? (Lukas 1:26)",
+        "answers": [
+            "Mikhael",
+            "Gabriel",
+            "Rafael",
+            "Uriel"
+        ],
+        "correct": "Gabriel",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah penulis dari Kitab Kejadian?",
+        "answers": [
+            "Daud",
+            "Adam",
+            "Musa",
+            "Salomo"
+        ],
+        "correct": "Musa",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa kitab dalam Perjanjian Baru?",
+        "answers": [
+            "30",
+            "27",
+            "40",
+            "20"
+        ],
+        "correct": "27",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang memimpin umat Israel keluar dari perbudakan di Mesir?",
+        "answers": [
+            "Musa",
+            "Nuh",
+            "Abraham",
+            "Yusuf"
+        ],
+        "correct": "Musa",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa kali Yesus jatuh saat membawa salib-Nya?",
+        "answers": [
+            "Satu kali",
+            "Dua kali",
+            "Tiga kali",
+            "Empat kali"
+        ],
+        "correct": "Tiga kali",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apa yang terjadi saat Yesus mati di kayu salib?",
+        "answers": [
+            "Gempa bumi",
+            "Badai petir",
+            "Hujan lebat",
+            "Panas terik"
+        ],
+        "correct": "Gempa bumi",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    }
+]

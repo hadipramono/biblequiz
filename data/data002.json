@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Siapa yang mengkhianati Yesus?",
+        "answers": [
+            "Petrus",
+            "Yudas",
+            "Yohanes",
+            "Matius"
+        ],
+        "correct": "Yudas",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa kali Petrus menyangkal Yesus?",
+        "answers": [
+            "Satu kali",
+            "Dua kali",
+            "Tiga kali",
+            "Empat kali"
+        ],
+        "correct": "Tiga kali",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapa yang membantu Yesus membawa salib?",
+        "answers": [
+            "Simon dari Kirene",
+            "Yusuf dari Arimatea",
+            "Yohanes",
+            "Nikodemus"
+        ],
+        "correct": "Simon dari Kirene",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa jumlah penjahat yang disalibkan bersama Yesus? ",
+        "answers": [
+            "Satu",
+            "Dua",
+            "Tiga",
+            "Empat"
+        ],
+        "correct": "Dua",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapa yang meminta tubuh Yesus setelah Ia mati? ",
+        "answers": [
+            "Yusuf dari Arimatea",
+            "Simon dari Kirene",
+            "Nikodemus",
+            "Yohanes"
+        ],
+        "correct": "Yusuf dari Arimatea",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapa yang pertama kali melihat Yesus setelah Ia bangkit? ",
+        "answers": [
+            "Maria Magdalena",
+            "Petrus",
+            "Yohanes",
+            "Tomas"
+        ],
+        "correct": "Maria Magdalena",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apa yang Yesus minta kepada Tomas yang meragukan kebangkitan-Nya?",
+        "answers": [
+            "Untuk melihat luka-luka-Nya",
+            "Untuk berdoa",
+            "Untuk memberitakan Injil",
+            "Untuk mengikuti-Nya"
+        ],
+        "correct": "Untuk melihat luka-luka-Nya",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apa yang Yesus lakukan ketika Ia bertemu dengan murid-murid-Nya di tepi danau setelah kebangkitan-Nya?",
+        "answers": [
+            "Mengajar mereka",
+            "Memberkati mereka",
+            "Memasak ikan untuk mereka",
+            "Berdoa bersama mereka"
+        ],
+        "correct": "Memasak ikan untuk mereka",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apa yang murid-murid Yesus lakukan setelah Ia naik ke surga?",
+        "answers": [
+            "Mereka kembali ke Yerusalem",
+            "Mereka pergi ke Galilea",
+            "Mereka berdoa di taman Getsemani",
+            "Mereka pergi ke Samaria"
+        ],
+        "correct": "Mereka kembali ke Yerusalem",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah yang memimpin umat Israel melewati Laut Merah? (Keluaran 14:21)",
+        "answers": [
+            "Musa",
+            "Daud",
+            "Ibrahim",
+            "Noah"
+        ],
+        "correct": "Musa",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    }
+]

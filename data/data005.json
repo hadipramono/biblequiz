@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Siapakah nama pahlawan yang memukul ribuan orang dengan tulang keledai?",
+        "answers": [
+            "Simson",
+            "Gideon",
+            "Daud",
+            "Yosua"
+        ],
+        "correct": "Simson",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apakah nama perempuan yang mendatangi Yesus dan memohon agar anaknya disembuhkan?",
+        "answers": [
+            "Maria Magdalena",
+            "Maria ibu Yesus",
+            "Salome",
+            "Perempuan Kanaan"
+        ],
+        "correct": "Perempuan Kanaan",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa banyak orang yang bisa makan dari 5 roti dan 2 ikan?",
+        "answers": [
+            "1000",
+            "5000",
+            "7000",
+            "10000"
+        ],
+        "correct": "5000",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah nama pengkhianat yang menghianati Yesus dengan ciuman?",
+        "answers": [
+            "Yudas Iskariot",
+            "Yohanes",
+            "Petrus",
+            "Yakobus"
+        ],
+        "correct": "Yudas Iskariot",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapa nama raja yang menerima surat yang isinya meminta izin untuk membangun kembali Yerusalem?",
+        "answers": [
+            "Darius",
+            "Koresy",
+            "Ahasyweros",
+            "Artahsasta"
+        ],
+        "correct": "Artahsasta",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah nama pemimpin yang dibunuh oleh Yael dengan menancapkan patok di kepalanya?",
+        "answers": [
+            "Debora",
+            "Yael",
+            "Yaela",
+            "Sisera"
+        ],
+        "correct": "Sisera",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa banyak hari Yesus berpuasa di padang gurun sebelum Ia mulai pelayanannya?",
+        "answers": [
+            "20",
+            "30",
+            "40",
+            "50"
+        ],
+        "correct": "40",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Berapa banyak kitab Injil dalam Alkitab?",
+        "answers": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": "4",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Siapakah nama pemimpin yang dipilih Tuhan untuk menjadi raja berikutnya?",
+        "answers": [
+            "Daud",
+            "Samuel",
+            "Saul",
+            "Yonatan"
+        ],
+        "correct": "Daud",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Apakah nama nabi yang dimakan oleh ikan besar selama tiga hari tiga malam?",
+        "answers": [
+            "Mikha",
+            "Hosea",
+            "Yunus",
+            "Amos"
+        ],
+        "correct": "Yunus",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    }
+]
