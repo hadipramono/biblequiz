@@ -12,6 +12,7 @@
     let mainScreen = document.querySelector('.main-screen');
     let quizScreen = document.querySelector('.quiz-screen');
     let resultScreen = document.querySelector('.result-screen');
+    let homeButton = document.querySelector('#home');
   
     startButton.addEventListener('click', showGamePlay);
     startButton2.addEventListener('click', showGamePlay);
@@ -34,6 +35,11 @@
   
     closeSettingButton.addEventListener('click', function() {
       settingScreen.classList.add('hidden');
+      mainScreen.classList.remove('hidden');
+    });
+    
+    homeButton.addEventListener('click', function() {
+      resultScreen.classList.add('hidden');
       mainScreen.classList.remove('hidden');
     });
 
@@ -95,7 +101,7 @@
         startProgressbar();
         timer = window.setTimeout(function() {
           guess(null);
-        }, 15000);
+        }, 10000);
   
         setQuizText('Bible Quiz');
   
