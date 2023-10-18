@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>#unHACK 2023 -- Bible Quiz</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container">
+    <div class="wrapper">
+        <div class="screen-section main-screen">
+            <div class="quiz-image-wrapper">
+                <img class="quiz-image" src="./assets/Game-Logo.png" alt="Bible quiz LOGO">
+            </div>
+            <h1>Bible Quiz</h1>
+            
+            <div class="button-container">
+                <div class="button-outer">
+                    <button class="default-button" id="start">Start</button>
+                </div>
+                <div class="button-outer">
+                    <button class="default-button" id="how-to">How to play?</button>
+                </div>
+            </div>
+            <div class="quiz-logo">
+                <img src="./assets/ai-4-god.png" alt="YLSA logo">
+            </div>
+        </div>
+
+        <div class="screen-section how-to-play-screen hidden">
+            <img class="quiz-corner-logo" src="./assets/Game-Logo.png" alt="Bile Quiz logo">
+            <button type="button" id="close-how-to" class="close-button">X</button>
+            <h2 class="title">Bagaimana cara memainkan? Ini mudah dan menyenangkan ...</h2>
+            <p class="text">Jawablah pertanyaan-pertanyaan Alkitab dan cari tahu seberapa jauh pengetahuan Anda tentang Alkitab!</p>
+
+            <p class="text">Anda akan memiliki waktu 10 detik untuk setiap pertanyaan untuk memilih jawaban. Setelah waktu habis, pertanyaan berikutnya akan dimuat. Jadi, nantikan, cepatlah dan perhatikan detailnya.</p>
+                
+            <p class="text">Anda akan menerima satu poin untuk setiap jawaban yang benar, dan nol poin untuk jawaban yang salah. Jika Anda benar dalam menjawab pertanyaan, pilihan yang Anda pilih akan berwarna hijau dan Anda akan mendapatkan satu poin. Jika jawaban Anda salah, maka akan berubah menjadi merah dan tidak ada poin tambahan untuk Anda.</p>
+                
+            <p class="text">Ketika Anda telah menyelesaikan kuis Alkitab, skor total Anda akan menunjukkan seberapa baik pengetahuan Anda tentang Alkitab. Selamat menikmati!</p>
+                
+            <button class="default-button" id="start2">Ok. Mari mulai!</button>
+
+            <div class="quiz-logo">
+                <img src="./assets/ai-4-god.png" alt="YLSA logo">
+            </div>
+        </div>
+
+        <div class="screen-section quiz-screen hidden">
+            <div class="quiz-screen-step">
+                Round <span id="question-index"></span> out of <span id="question-count"></span>
+            </div>
+            <div class="quiz-question-wrapper">
+               <h1 id="question-name" class="question-name">question</h1>               
+            </div>
+            <div class="quiz-timer" id="progress-bar"></div>
+            <div class="quiz-question" id="quiz-text"></div>
+            <div class="button-container" id="answers-container">
+                <div class="button-outer">
+                    <button id="answer0" class="default-button"></button>
+                </div>
+                <div class="button-outer">
+                    <button id="answer1" class="default-button"></button>
+                </div>
+                <div class="button-outer">
+                    <button id="answer2" class="default-button"></button>
+                </div>
+                <div class="button-outer">
+                    <button id="answer3" class="default-button"></button>
+                </div>
+            </div>
+            <div class="quiz-logo">
+                <img src="./assets/ai-4-god.png" alt="YLSA logo">
+            </div>
+        </div>
+
+        <div class="screen-section result-screen hidden">
+            <div class="quiz-image-wrapper">
+                <input class="question" id="questionId" value="" /> 
+            </div>
+            <p class="score">
+                <span id="score"></span> out of <span id="score-total"></span>
+            </p>
+            <h1 id="score-name" class="score-name">Bible Quiz</h1>
+            <span class="description">
+
+            </span>
+
+            <!--<button>share facebook</button>-->
+            <!--<button>share twitter</button>-->
+            <button class="default-button" id="start3">Play again</button>
+
+            <div class="quiz-logo">
+                <img src="./assets/ai-4-god.png" alt="YLSA logo">
+            </div>
+        </div>
+    </div>
+</div>
+<!-- partial -->
+  <script  src="./vendors/jquery-3.7.1.min.js"></script>
+  <script  src="./script.js"></script>
+
+</body>
+</html>

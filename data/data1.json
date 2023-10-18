@@ -1,0 +1,132 @@
+[
+    {
+        "question": "Kota di mana Paulus menemui Akwila dan Priskila",
+        "answers": [
+            "Korintus",
+            "Kaesarea",
+            "Roma",
+            "Yerusalem"
+        ],
+        "correct": "Korintus",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Kota tempat Paulus lahir",
+        "answers": [
+            "Yerusalem",
+            "Tarsus",
+            "Roma",
+            "Kaesarea"
+        ],
+        "correct": "Tarsus",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Nama tempat di mana Yesus mengucapkan Khotbah di Bukit",
+        "answers": [
+            "Karmel",
+            "Ararat",
+            "Betel",
+            "Zaitun"
+        ],
+        "correct": "Zaitun",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Nama lembah tempat Daud mengalahkan raksasa Goliat",
+        "answers": [
+            "Ela",
+            "Kidron",
+            "Arava",
+            "Terebin"
+        ],
+        "correct": "Ela",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Tokoh yang menggantikan Yudas Iskariot sebagai rasul",
+        "answers": [
+            "Tomas",
+            "Matias",
+            "Simon",
+            "Stefanus"
+        ],
+        "correct": "Matias",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Abraham dikubur dimana",
+        "answers": [
+            "Kidron",
+            "Siddim",
+            "Betel",
+            "Makhpela"
+        ],
+        "correct": "Makhpela",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Tempat dimana ada dua belas mata air dan tujuh puluh pohon palem",
+        "answers": [
+            "Gerezim",
+            "Urkasdim",
+            "Sumur Yakub ",
+            "Elim"
+        ],
+        "correct": "Elim",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Kolam dimana Yesus menyembuhkan orang yang lumpuh",
+        "answers": [
+            "Siloam",
+            "Betesda",
+            "Gat",
+            "Arza"
+        ],
+        "correct": "Betesda",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Di puncak gunung mana Musa dapat melihat tanah perjanjian?",
+        "answers": [
+            "Nebo",
+            "Hebron",
+            "Sinai",
+            "Moria"
+        ],
+        "correct": "Nebo",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    },
+    {
+        "question": "Di gunung mana Abraham diuji Tuhan untuk mengorbankan Ishak ?",
+        "answers": [
+            "Nebo",
+            "Hebron",
+            "Sinai",
+            "Moria"
+        ],
+        "correct": "Moria",
+        "category": "Nama & Tempat",
+        "type": "multiple",
+        "difficulty": "easy"
+    }
+]
