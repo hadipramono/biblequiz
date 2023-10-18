@@ -38,6 +38,8 @@
     });
 
     saveSettingButton.addEventListener('click', function() {
+      $.cookie("biblequiz_difficulty", $("#difficulty").val());
+
       settingScreen.classList.add('hidden');
       mainScreen.classList.remove('hidden');
     });
@@ -208,8 +210,25 @@
       progressbarInner.style.animationPlayState = 'paused';
     }
   
-  
-  
+    let difficulties = [
+      { "key": "random",  "value": "Acak"     },
+      { "key": "easy",    "value": "Mudah"    },
+      { "key": "medium",  "value": "Menengah" },
+      { "key": "hard",    "value": "Sulit"    }
+    ];
+
+    $.each( difficulties, function( i, value ){
+      if (value.key == $.cookie("biblequiz_difficulty")) {
+        $('#difficulty').append('<option value="' + value.key + '" selected>' + value.value + '</option>');
+      } else {
+        $('#difficulty').append('<option value="' + value.key + '">' + value.value + '</option>');
+      }
+
+
+      
+    });
+
+
     // your page initialization code here
     // the DOM will be available here
   
